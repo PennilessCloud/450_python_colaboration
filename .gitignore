@@ -1,0 +1,6 @@
+# Gitignore File
+*.png
+*.pdf
+*/
+*.py
+*.docx
